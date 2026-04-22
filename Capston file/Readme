@@ -1,1 +1,8 @@
 #Kamaljeet
+2 Routers (R1, R2)
+2 Switches (S1, S2)
+4 PCs (PC1, PC2, PC3, PC4)
+2 Server (DHCP)
+PC1, PC2 + Server → Switch S1 → Router R1
+Router R1 ↔ Router R2 (WAN link)
+Router R2 → Switch S2 → PC3, PC4
